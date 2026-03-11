@@ -1,0 +1,7 @@
+{
+  "name": "StyleAI",
+  "description": "AI-powered fashion styling advisor that provides personalized recommendations based on skin tone analysis and gender preferences.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
